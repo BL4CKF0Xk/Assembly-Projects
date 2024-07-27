@@ -1,0 +1,3 @@
+# This is my notes on Assembly language studies
+
+# Mainly I'm talking about CPU and Computer architecture
