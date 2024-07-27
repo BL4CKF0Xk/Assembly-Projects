@@ -1,6 +1,6 @@
-#This is my notes on Assembly language studies
+# This is my notes on Assembly language studies
 
-##Mainly I'm talking about CPU and Memory
+## Mainly I'm talking about CPU and Memory
 
 There are two memory parts that we shold take notes on. The registers inside CPU and the Main memory of the program. Retrieving an instruction from the registers takes only one clock cycle, and retrieving it from the L1 cache takes a few cycles, while retrieving it from RAM takes around 200 cycles. When this is done billions of times a second, it makes a massive difference in the overall execution speed.
 
